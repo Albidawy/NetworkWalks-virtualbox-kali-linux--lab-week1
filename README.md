@@ -208,7 +208,7 @@ nmap -sV localhost
 | No internet in the VM | Checked the adapter was set to NAT Network and that "Cable Connected" was ticked |
 | Installer booted again after install | Removed the ISO from the virtual optical drive |
 
-*Replace or edit this table with the real issues you ran into.*
+
 
 ---
 
