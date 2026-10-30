@@ -42,7 +42,7 @@ This project documents how I built an isolated cybersecurity lab by installing K
 3. Run the installer and accept the defaults.
 4. Launch VirtualBox and confirm it opens.
 
-![VirtualBox installed](screenshots/01-virtualbox-installed.png)
+![VirtualBox installed](screenshot1/01-virtualbox-installed.png)
 
 ---
 
@@ -85,7 +85,7 @@ Then open **Settings** and adjust:
 
 I created the NAT network under **Tools > Network** (NAT Networks tab > **Create**), with IPv4 prefix `10.0.0.0/24` and **DHCP enabled**.
 
-![VM network](screenshots/07-vm-network.png)
+![VM network](screenshot1/07-vm-network.png)
 
 ---
 
@@ -100,9 +100,9 @@ I created the NAT network under **Tools > Network** (NAT Networks tab > **Create
 7. Install GRUB to the primary drive when prompted.
 8. When it finishes, click **Continue** to reboot. Remove the ISO from the virtual drive if prompted.
 
-![Kali boot splash](screenshots/08-kali-boot.png)
+![Kali boot splash](screenshot1/08-kali-boot.png)
 
-![Login screen](screenshots/10-login-screen.png)
+![Login screen](screenshot1/10-login-screen.png)
 
 ---
 
